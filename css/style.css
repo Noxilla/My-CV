@@ -1,0 +1,86 @@
+body {
+	background-color:#ffff;
+	color:#3333;
+	font-family:segoe ui;
+	font-size:16px;
+	font-weight:normal;
+	text-align:justify;
+    line-height:1.6em;
+	margin:0px;
+}
+	h1{
+		font-family:segoe ui;
+		margin:20px;
+	}
+	
+	.link{
+		margin:20px;
+	}
+
+
+
+
+.box-1{
+	background-color:#fff;
+	color:#3333;
+	border-right:5px grey solid;
+	border-left:5px grey solid;
+	border-top:5px grey solid;
+	border-bottom:5px grey solid;
+	padding:20px;
+	margin-top:20px;
+	margin:20px 0;
+	
+}
+
+.box-2{
+	background-color:#fff;
+	color:#3333;
+	border-right:5px grey solid;
+	border-left:5px grey solid;
+	border-top:5px grey solid;
+	border-bottom:5px grey solid;
+	padding:20px;
+	margin-top:20px;
+	margin:20px 0;
+	
+}
+
+.box-3{
+	background-color:#fff;
+	color:#3333;
+	border-right:5px grey solid;
+	border-left:5px grey solid;
+	border-top:5px grey solid;
+	border-bottom:5px grey solid;
+	padding:20px;
+	margin-top:20px;
+	margin:20px 0;
+	
+}
+
+.box-4{
+	background-color:#fff;
+	color:#3333;
+	border-right:5px grey solid;
+	border-left:5px grey solid;
+	border-top:5px grey solid;
+	border-bottom:5px grey solid;
+	padding:20px;
+	margin-top:20px;
+	margin:20px 0;
+	
+}
+
+.box-5{
+	background-color:#fff;
+	color:#3333;
+	border-right:5px grey solid;
+	border-left:5px grey solid;
+	border-top:5px grey solid;
+	border-bottom:5px grey solid;
+	padding:20px;
+	margin-top:20px;
+	margin:20px 0;
+	
+}
