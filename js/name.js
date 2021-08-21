@@ -4,4 +4,3 @@ my = function(){
 document.getElementById("here").innerHTML=first""+""+second
 }
 
-
