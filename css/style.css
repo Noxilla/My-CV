@@ -1,6 +1,6 @@
 body {
-	background-color:#ffff;
-	color:#3333;
+	background-color:#ffffff;
+	color:#333333;
 	font-family:segoe ui;
 	font-size:16px;
 	font-weight:normal;
@@ -16,6 +16,8 @@ body {
 	.link{
 		margin:20px;
 	}
+	
+
 
 
 
@@ -23,9 +25,9 @@ body {
 .box-1{
 	background-color:#fff;
 	color:#3333;
-	border-right:5px grey solid;
-	border-left:5px grey solid;
-	border-top:5px grey solid;
+	border-right:5px white solid;
+	border-left:5px white solid;
+	border-top:5px white solid;
 	border-bottom:5px grey solid;
 	padding:20px;
 	margin-top:20px;
@@ -36,9 +38,9 @@ body {
 .box-2{
 	background-color:#fff;
 	color:#3333;
-	border-right:5px grey solid;
-	border-left:5px grey solid;
-	border-top:5px grey solid;
+	border-right:5px white solid;
+	border-left:5px white solid;
+	border-top:5px white solid;
 	border-bottom:5px grey solid;
 	padding:20px;
 	margin-top:20px;
@@ -49,9 +51,9 @@ body {
 .box-3{
 	background-color:#fff;
 	color:#3333;
-	border-right:5px grey solid;
-	border-left:5px grey solid;
-	border-top:5px grey solid;
+	border-right:5px white solid;
+	border-left:5px white solid;
+	border-top:5px white solid;
 	border-bottom:5px grey solid;
 	padding:20px;
 	margin-top:20px;
@@ -59,25 +61,16 @@ body {
 	
 }
 
-.box-4{
-	background-color:#fff;
-	color:#3333;
-	border-right:5px grey solid;
-	border-left:5px grey solid;
-	border-top:5px grey solid;
-	border-bottom:5px grey solid;
-	padding:20px;
-	margin-top:20px;
-	margin:20px 0;
+
 	
 }
 
 .box-5{
 	background-color:#fff;
 	color:#3333;
-	border-right:5px grey solid;
-	border-left:5px grey solid;
-	border-top:5px grey solid;
+	border-right:5px white solid;
+	border-left:5px white solid;
+	border-top:5px white solid;
 	border-bottom:5px grey solid;
 	padding:20px;
 	margin-top:20px;
